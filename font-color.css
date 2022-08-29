@@ -1,0 +1,178 @@
+:root {
+    --font-monts: "Montserrat", sans-serif;
+    --col-2F: #2F80ED;
+    --col-4F: #4F4F4F;
+    --col-82: #828282;
+    --col-E0: #E0E0E0;
+    --col-C4: #C4C4C4;
+    --col-33: #333;
+}
+
+body {
+    font-family: var(--font-monts);
+    background-color: lightgray;
+}
+
+p {
+    color: var(--col-82);
+    font-weight: 500;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* .section-1 {
+    background-color: lightcoral;
+} */
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    color: var(--col-4F);
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 29.26px;
+    color: var(--col-4F);
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 29.26px;
+    color: var(--col-33);
+    font-weight: 500;
+}
+
+.box_1__2-name p,
+.profile-desc,
+.contact-email p,
+.contact-phone p {
+    font-size: 16px;
+    line-height: 21.94px;
+}
+
+.contact-email,
+.contact-phone {
+    color: var(--col-4F);
+}
+
+
+.box_2 .focus {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.94px;
+    color: var(--col-4F);
+}
+
+.bar-bg {
+    background-color: var(--col-C4);
+}
+
+.bar-level {
+    background-color: var(--col-2F);
+}
+
+.skill-name {
+    font-size: 14px;
+}
+
+
+.box_3 h2 {
+    font-size: 14px;
+    line-height: 19.5px;
+    font-weight: 500;
+    color: var(--col-E0);
+}
+
+.box_3 a {
+    font-size: 14px;
+    color: var(--col-2F);
+}
+
+
+.box_4 .hobbies-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--col-33);
+    line-height: 21.94px;
+}
+
+
+.b5__inner-2 p:nth-child(1) {
+    font-size: 12px;
+}
+
+.b5__inner-2 p:nth-child(2) {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19.5px;
+    color: var(--col-33);
+}
+
+
+
+.sorter {
+    background-color: rgb(245, 245, 245);
+}
+
+.sorter h2 {
+    font-size: 18px;
+    line-height: 21.94px;
+    color: var(--col-4F);
+}
+
+.project-item {
+    background-color: rgb(245, 245, 245);
+}
+
+
+
+
+
+.sorter-item a {
+    transition: 0.3s ease-in-out;
+    font-size: 14px;
+}
+
+.sorter-item a:hover {
+    color: white;
+    border: 1px solid var(--col-2F);
+    background-color: var(--col-2F);
+}
+
+.sorter-item a.active {
+    color: white;
+    border: 1px solid var(--col-2F);
+    background-color: var(--col-2F);
+}
+
+.project-button a {
+    transition: 0.3s ease-in-out;
+}
+
+
+.project-button a:nth-child(1) {
+    color: white;
+    background-color: var(--col-2F);
+    border: 1px solid var(--col-2F);
+}
+
+.project-button a:nth-child(1):hover {
+    color: var(--col-2F);
+    background-color: white;
+}
+
+.project-button a:nth-child(2) {
+    color: var(--col-2F);
+    border: 1px solid var(--col-2F);
+}
+
+.project-button a:nth-child(2):hover {
+    color: white;
+    background-color: var(--col-2F);
+}
