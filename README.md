@@ -35,6 +35,19 @@
 
 ## Overview
 
+Bruhhh this was the hardest challenge for me because at first I was confused whether I was customing my own portfolio or following the given design. 
+
+Im focusing on slicing the given design as pixel-perfect as possible all this time - so I was struggling to create my own design. one thing I know that I want to finish what I've started, so giving up is never an option. and also making it responsive without mobile design will take me a longer time to create the responsiveness. 
+
+I do it one by one it took me about 1 week but finally finished the project. 
+
+if u want to take a look on how i finish all the project on responsive challenge, u can find it on my github (find it on source code of this project)
+
+
+im so happy i finally able to finish this project!
+see ya all, wish u all the best with ur coding journey!
+
+
 Check the [demo](https://deft-palmier-697697.netlify.app/) on how i did it :)
 
 ### Built With
@@ -60,4 +73,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - GitHub [@pandagenduts](https://github.com/pandagenduts)
 - Email donnirendi@gmail.com
+- Instagram [@donnirendi](https://www.instagram.com/donnirendi/)
+- Main Twitter [@donnirendi](https://twitter.com/donnirendi)
+- Coding Twitter [@perspectoz](https://twitter.com/perspectoz)
 
+
+To connect with me: just follow and tell me you found me on Github, I will happy to connect with you also :D
