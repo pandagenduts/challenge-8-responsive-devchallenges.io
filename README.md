@@ -1,4 +1,4 @@
-<h2>On progress! check out the demo/insight regulary to see the progress i made</h2>
+<h2>Finished!</h2>
 
 <h1 align="center">Portfolio - Challenge 8 Responsive (final)</h1>
 
