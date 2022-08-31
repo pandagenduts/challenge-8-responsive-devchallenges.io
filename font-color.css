@@ -10,13 +10,14 @@
 
 body {
     font-family: var(--font-monts);
-    background-color: lightgray;
+    background-color: rgb(230, 230, 230);
 }
 
 p {
     color: var(--col-82);
     font-weight: 500;
     font-size: 14px;
+    line-height: 22px;
 }
 
 a {
@@ -175,4 +176,23 @@ h3 {
 .project-button a:nth-child(2):hover {
     color: white;
     background-color: var(--col-2F);
+}
+
+@media (max-width: 576px) {
+    .box_1__2-name p,
+    .profile-desc,
+    .contact-email p,
+    .contact-phone p {
+        font-size: 14px;
+    }
+
+    .box_2 .focus {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 576px) {
+    /* .sorter-item a {
+        font-size: 10px;
+    } */
 }
