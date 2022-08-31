@@ -403,6 +403,13 @@ Skills
     display: block;
 }
 
+
+footer {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+
 @media (max-width: 1100px) {
     .project-button a {
         padding: 7px 20px;

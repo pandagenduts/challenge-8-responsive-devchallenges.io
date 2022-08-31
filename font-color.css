@@ -178,6 +178,17 @@ h3 {
     background-color: var(--col-2F);
 }
 
+
+footer a {
+    color: inherit;
+}
+
+footer a:nth-child(1) {
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+
 @media (max-width: 576px) {
     .box_1__2-name p,
     .profile-desc,
