@@ -237,22 +237,27 @@ Skills
 }
 
 .b4__img {
-    height: 147px;
-    overflow: hidden;
+    width: 100%;
+}
+
+.b4__inner-2 img {
+    width: 100%;
     border-radius: 12px;
     margin-bottom: 26px;
 }
 
-.b4__img img {
+
+
+/* .b4__img img {
     width: 100%;
     position: relative;
-}
+} */
 
 .box_4 .hobbies-title {
     margin-bottom: 10px;
 }
 
-.b4__img-gaming img {
+/* .b4__img-gaming img {
     top: -160px;
 }
 
@@ -262,7 +267,7 @@ Skills
 
 .b4__img-movie img {
     top: -300px;
-}
+} */
 
 
 .box_5 {
@@ -498,7 +503,33 @@ Skills
     }
 }       
 
+
+/*
+----------
+only for hobbies at certain vw 
+----------
+*/
+@media (max-width: 767px) and (min-width: 577px) {
+    .b4__img {
+        display: flex;
+        justify-content: center;
+    }
+
+    .b4__img img {
+        width: 75%;
+    }
+
+    .hobbies-title,
+    .hobbies-desc {
+        text-align: center;
+    }
+}
+
 @media (max-width: 576px) {
+    .section-1 {
+        margin-bottom: 65px;
+    }
+    
     .box_1__2-inner {
         display: block;
     }
@@ -522,9 +553,8 @@ Skills
         width: 100%;
     }
 
-    
-
-    .section-1 {
-        margin-bottom: 65px;
+    .sorter-item a {
+        padding: 5px 19px;
+        margin-right: 6px;
     }
 }
