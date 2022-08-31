@@ -47,15 +47,14 @@ Check the [demo](https://deft-palmier-697697.netlify.app/) on how i did it :)
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/5ZnOYsSXM24JWnCsNFlt) was to build a static HTML page to complete the following user stories:
 
-- [on progress] User story: I can go to certain locations by selecting links in navigation or footer
-- [on progress] User story: I can see personal details
-- [on progress] User story: I can see skills
-- [on progress] User story: I can see projects
-- [on progress] User story: I can filter projects by tag
-- [on progress] User story: I can see hobbies or certificates
-- [on progress] User story (optional): I can see experiences
-- [on progress] User story (optional): I can see blogs
-- [on progress] User story (optional): I can see projects on different pages
+- [x] User story: I can go to certain locations by selecting links in navigation or footer
+- [x] User story: I can see personal details
+- [x] User story: I can see skills
+- [x] User story: I can see projects
+- [x] User story: I can filter projects by tag
+- [x] User story: I can see hobbies or certificates
+- [x] User story (optional): I can see experiences
+- [x] User story (optional): I can see blogs
 
 ## Contact
 
