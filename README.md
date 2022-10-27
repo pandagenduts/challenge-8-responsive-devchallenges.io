@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://deft-palmier-697697.netlify.app/" target="_blank">
+    <a href="https://pandagenduts-portfolio-devchallenges.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
@@ -48,7 +48,7 @@ im so happy i finally able to finish this project!
 see ya all, wish u all the best with ur coding journey!
 
 
-Check the [demo](https://deft-palmier-697697.netlify.app/) on how i did it :)
+Check the [demo](https://pandagenduts-portfolio-devchallenges.netlify.app/) on how i did it :)
 
 ### Built With
 
