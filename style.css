@@ -353,8 +353,8 @@ Skills
 .projects {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 516px);
-    grid-auto-rows: 516px;
+    /* grid-template-rows: repeat(2, 516px);
+    grid-auto-rows: 516px; */
     gap: 31px;
 }
 
